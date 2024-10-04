@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/755ce236-a55d-4f30-9340-46025301f2cd)![image](https://github.com/user-attachments/assets/293b27b3-6c8c-4417-8579-7bc919d5a302)Berikut adalah versi bahasa Inggris dari `README.txt` untuk bot "Claim Shuffle":
+![image](https://github.com/user-attachments/assets/978cdec5-b7cb-447d-ae4c-53e019bb863d)
 
 ---
 
