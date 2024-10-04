@@ -42,7 +42,7 @@ Here's a screenshot of the bot after successfully claiming a code:
 
 ## Promotion
 
-Currently, the bot is not available publicly on any marketplace. To try it out or get more information, feel free to contact me directly on Telegram at [@xiaogarpu].
+Currently, the bot is not available publicly on any marketplace. To try it out or get more information, feel free to contact me directly on Telegram at [MbotixTech](https://t.me/xiaogarpu).
 
 ---
 
